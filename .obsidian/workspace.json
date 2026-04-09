@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doing list.md",
+                "file": "paper 3 Outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doing list"
+              "title": "paper 3 Outline"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,13 +229,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "84b937c1c4a1afae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,15 +257,44 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "terminal:Open terminal": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "ae96dfc4e3f27ea3",
+  "active": "31247e21ebeb8577",
   "lastOpenFiles": [
+    "High_Dimensional_Computing_Review.md",
+    "refine-logs/REFINE_STATE.json.tmp.37284.1775729716210",
+    "refine-logs/PIPELINE_SUMMARY.md",
+    "refine-logs/EXPERIMENT_TRACKER.md",
+    "refine-logs/EXPERIMENT_PLAN.md",
+    "refine-logs/score-history.md",
+    "refine-logs/REFINEMENT_REPORT.md",
+    "refine-logs/REVIEW_SUMMARY.md",
+    "refine-logs/FINAL_PROPOSAL.md",
+    "refine-logs/FINAL_PROPOSAL.md.tmp.37284.1775729542827",
+    "refine-logs/round-3-review.md",
+    "refine-logs/round-3-review.md.tmp.37284.1775729478786",
+    "refine-logs/round-2-refinement.md",
+    "refine-logs/round-2-review.md",
+    "refine-logs/round-1-refinement.md",
+    "refine-logs/round-1-refinement.md.tmp.37284.1775728842366",
+    "refine-logs/round-1-review.md",
+    "refine-logs/round-1-review.md.tmp.37284.1775728718488",
+    "refine-logs/round-0-initial-proposal.md",
+    "refine-logs/REFINE_STATE.json",
+    "refine-logs",
+    "IDEA_REPORT.md",
+    "IDEA_REPORT.md.tmp.37284.1775722648177",
+    "LITERATURE_REVIEW.md",
+    "paper 3 Outline.md",
+    "High_Dimensional_Computing_Review.md.tmp.38644.1775721620313",
+    "Doing list.md",
+    "CLAUDE.md",
     "HDC(High Dimension Computing).md",
     "欢迎.md",
-    "paper 3 Outline.md",
     "神经记录技术.md",
-    "Doing list.md"
+    "HDC_References.bib"
   ]
 }
